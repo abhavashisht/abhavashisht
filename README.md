@@ -1,7 +1,8 @@
-# Hi, I'm Abha Vashisht 👩‍💻  
+# Hey there, I'm Abha 👋  
 
-Welcome to my GitHub profile! I love building projects, exploring new technologies, and solving real-world problems through code.  
-Currently learning and practicing DSA, Node.js, and full-stack development. 🚀
+I love turning ideas into reality with code ✨.  
+Currently exploring the world of full-stack development, Node.js, and sharpening my DSA skills 🚀.
+
 
 ---
 
